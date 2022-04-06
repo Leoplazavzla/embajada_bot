@@ -1044,3 +1044,42 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 1649266870046	Marionette	INFO	Stopped listening on port 55694
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649270242332	geckodriver	INFO	Listening on 127.0.0.1:24050
+1649270245403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24051" "-no-remote" "-profile" "C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofileErCgIW"
+1649270245877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofileErCgIW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24051/devtools/browser/d9499d57-7cd9-4b53-9f3a-753f833a898d
+1649270248019	Marionette	INFO	Listening on port 24058
+1649270248098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649270360150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649270391727	Marionette	INFO	Stopped listening on port 24058
+JavaScript error: resource:///actors/PromptParent.jsm, line 279: Error: Cannot content-prompt without a browser!
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649270421978	geckodriver	INFO	Listening on 127.0.0.1:24189
+1649270425085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24190" "-no-remote" "-profile" "C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofileBHM1SK"
+1649270425378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofileBHM1SK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24190/devtools/browser/8c7464d3-ecfe-4723-8541-072bd3f31d1d
+1649270427178	Marionette	INFO	Listening on port 24196
+1649270427246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649270552991	Marionette	INFO	Stopped listening on port 24196
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649270568821	geckodriver	INFO	Listening on 127.0.0.1:24334
+1649270571910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24335" "-no-remote" "-profile" "C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofiley4wmWG"
+1649270572249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\malga\\AppData\\Local\\Temp\\rust_mozprofiley4wmWG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24335/devtools/browser/1229d3c6-2e92-4ebc-a6e9-3b3a169ef45a
+1649270574150	Marionette	INFO	Listening on port 24341
+1649270574589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
