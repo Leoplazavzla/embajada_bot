@@ -1,0 +1,9 @@
+Apellido: ALGASIBIUR
+Apellido de Nac: ALGASIBIUR
+Nombre: Martin
+fecha de nac: 05/07/1990
+Nacionalidad: ARGENTINA
+Sexo: Masculino
+Nro Pasaporte: AAG439899
+tel: 3407458972
+mail: malgasibiur@gmail.com

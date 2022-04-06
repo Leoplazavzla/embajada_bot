@@ -1,0 +1,1046 @@
+1649119598628	geckodriver	INFO	Listening on 127.0.0.1:64695
+1649119601675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64696" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3Kx1u8"
+1649119602048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3Kx1u8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64696/devtools/browser/ae18fccf-b18e-4c9b-b30f-a554d1f0bcb4
+1649119604423	Marionette	INFO	Listening on port 64702
+1649119604854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649119612041	Marionette	INFO	Stopped listening on port 64702
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649121217150	geckodriver	INFO	Listening on 127.0.0.1:64300
+1649121220187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64301" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileZ30Vnb"
+1649121220721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileZ30Vnb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64301/devtools/browser/9d6d668f-0350-4d39-8f8c-e812151aad5f
+1649121223506	Marionette	INFO	Listening on port 64306
+1649121223877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649125165061	Marionette	INFO	Stopped listening on port 64306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649170646955	geckodriver	INFO	Listening on 127.0.0.1:53865
+1649170649970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53866" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileQtndUl"
+1649170650799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileQtndUl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53866/devtools/browser/ba6db2d6-1522-4d0c-9636-a12e6fe8724d
+1649170654504	Marionette	INFO	Listening on port 53872
+1649170654825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'inspector's method 'getImageDataFromURL'" "Image 'https://ar.ambafrance.org/plugins-dist/blocsdepliables/css/img/triangle-bas.gif' took too long to load."
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649172124537	Marionette	INFO	Stopped listening on port 53872
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649172150414	geckodriver	INFO	Listening on 127.0.0.1:57053
+1649172153461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57054" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofiledR8JFX"
+1649172153969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofiledR8JFX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57054/devtools/browser/8f2a72bc-2336-4576-9dd1-7fd2ae0018bd
+1649172157334	Marionette	INFO	Listening on port 57063
+1649172157664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649172673815	Marionette	INFO	Stopped listening on port 57063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649172706122	geckodriver	INFO	Listening on 127.0.0.1:64732
+1649172709171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64733" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilem6TyvQ"
+1649172709552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilem6TyvQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64733/devtools/browser/a5b856ad-a29b-43f8-8219-ea06df2ccaa3
+1649172712077	Marionette	INFO	Listening on port 64738
+1649172712354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649187768728	Marionette	INFO	Stopped listening on port 64738
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649187774479	geckodriver	INFO	Listening on 127.0.0.1:62997
+1649187777533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62998" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile4aEsiQ"
+1649187777901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile4aEsiQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62998/devtools/browser/e0cca045-8dd6-45dc-ac0d-7763cf0f2d4e
+1649187780362	Marionette	INFO	Listening on port 63003
+1649187780742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/jsclient-4.02.00/RDV/accueil.js, line 31: TypeError: pp.lang is null
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649187977838	Marionette	INFO	Stopped listening on port 63003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649187982932	geckodriver	INFO	Listening on 127.0.0.1:63090
+1649187985983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63091" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofiletASrZy"
+1649187986359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofiletASrZy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63091/devtools/browser/2d1ce6e5-f6d0-4a10-9926-949ea694eb4d
+1649187988941	Marionette	INFO	Listening on port 63097
+1649187989151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649188603595	Marionette	INFO	Stopped listening on port 63097
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649188608264	geckodriver	INFO	Listening on 127.0.0.1:63254
+1649188611319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63255" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileRxrEkk"
+1649188611690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileRxrEkk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63255/devtools/browser/236f8ed3-78c7-4564-90bd-c8218ebe30fe
+1649188614464	Marionette	INFO	Listening on port 63260
+1649188614507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649191018022	Marionette	INFO	Stopped listening on port 63260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649191056131	geckodriver	INFO	Listening on 127.0.0.1:65298
+1649191059185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65299" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile8fIlKa"
+1649191059755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile8fIlKa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65299/devtools/browser/817e6fd4-9bee-4266-b966-3f568b2421ef
+1649191062553	Marionette	INFO	Listening on port 65304
+1649191062863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3452: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3452: TypeError: data.frameData.id is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3452: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3452: TypeError: data.frameData.id is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649195213286	Marionette	INFO	Stopped listening on port 65304
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649195218759	geckodriver	INFO	Listening on 127.0.0.1:49242
+1649195221805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49243" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile8tPghh"
+1649195222195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile8tPghh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49243/devtools/browser/6c541881-1742-47b0-ba72-a5d130bd79a4
+1649195224782	Marionette	INFO	Listening on port 49248
+1649195224987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: tabElementForm[0].suivant()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: tabElementForm[0].suivant()'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649197511543	Marionette	INFO	Stopped listening on port 49248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649202957011	geckodriver	INFO	Listening on 127.0.0.1:59784
+1649202960081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59785" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileI3pgCw"
+1649202960447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileI3pgCw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59785/devtools/browser/7d4f6155-8c78-40a1-b224-489545b0137c
+1649202963215	Marionette	INFO	Listening on port 59790
+1649202963255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: tabElementForm[0].suivant()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:compTableau.appelAction(0,0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: tabElementForm[0].suivant()'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:compTableau.appelAction(0,0)'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649204969499	Marionette	INFO	Stopped listening on port 59790
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649204976227	geckodriver	INFO	Listening on 127.0.0.1:62228
+1649204979275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62229" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileX1scD5"
+1649204979668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileX1scD5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62229/devtools/browser/56c83f1a-1f64-46b3-98ca-00e7ffb66b34
+1649204982395	Marionette	INFO	Listening on port 62234
+1649204982457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 332: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649207913018	Marionette	INFO	Stopped listening on port 62234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649208181659	geckodriver	INFO	Listening on 127.0.0.1:59578
+1649208184731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59579" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileJIk9F9"
+1649208185124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileJIk9F9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59579/devtools/browser/8a5b3593-e3d0-416a-a300-690a9afa8a55
+1649208187839	Marionette	INFO	Listening on port 59584
+1649208187895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649208450475	Marionette	INFO	Stopped listening on port 59584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649208544286	geckodriver	INFO	Listening on 127.0.0.1:59722
+1649208547363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59723" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilenC7MnX"
+1649208547709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilenC7MnX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59723/devtools/browser/e7a988ca-52f0-4025-827f-6445c9692bbd
+1649208550187	Marionette	INFO	Listening on port 59728
+1649208550608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649208700848	Marionette	INFO	Stopped listening on port 59728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649208715980	geckodriver	INFO	Listening on 127.0.0.1:59826
+1649208719017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59827" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile0f53NL"
+1649208719379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile0f53NL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59827/devtools/browser/faf18270-1d37-4d95-96dc-d2dff8755c44
+1649208722084	Marionette	INFO	Listening on port 59834
+1649208722185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649208739215	Marionette	INFO	Stopped listening on port 59834
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649208753381	geckodriver	INFO	Listening on 127.0.0.1:59882
+1649208756436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59883" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3yW4cD"
+1649208756773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3yW4cD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59883/devtools/browser/798e21fb-db70-47f2-a86e-905b244b4774
+1649208759649	Marionette	INFO	Listening on port 59890
+1649208760137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649209022670	Marionette	INFO	Stopped listening on port 59890
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649209052853	geckodriver	INFO	Listening on 127.0.0.1:60018
+1649209055935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60019" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilewGp3Tv"
+1649209056279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilewGp3Tv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60019/devtools/browser/2e9f6dc6-500e-438e-9322-75896e56fbd7
+1649209058888	Marionette	INFO	Listening on port 60024
+1649209059110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649209319775	Marionette	INFO	Stopped listening on port 60024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649209323243	geckodriver	INFO	Listening on 127.0.0.1:60143
+1649209326310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60144" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilejV7gs1"
+1649209326671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilejV7gs1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60144/devtools/browser/43e37d4f-174c-4737-87ca-ef9872d8ae8c
+1649209329187	Marionette	INFO	Listening on port 60149
+1649209329505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649209927358	Marionette	INFO	Stopped listening on port 60149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649209935795	geckodriver	INFO	Listening on 127.0.0.1:60278
+1649209938877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60279" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3EFJer"
+1649209939186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3EFJer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60279/devtools/browser/db1d81d2-ca18-425b-a82a-54418b09feab
+1649209942120	Marionette	INFO	Listening on port 60285
+1649209942547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649210090843	geckodriver	INFO	Listening on 127.0.0.1:60375
+1649210093897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60376" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileI3oAcv"
+1649210094247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileI3oAcv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60376/devtools/browser/f884c7ab-810c-4d47-906a-2b95e915c06f
+1649210096940	Marionette	INFO	Listening on port 60381
+1649210097068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649215175158	geckodriver	INFO	Listening on 127.0.0.1:60184
+1649215178222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60185" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile5QvWg9"
+1649215178628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile5QvWg9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60185/devtools/browser/ad53d8fa-5832-4a2a-8347-97c62b1f1db3
+1649215181139	Marionette	INFO	Listening on port 60190
+1649215181390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649215347127	Marionette	INFO	Stopped listening on port 60190
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649215438126	geckodriver	INFO	Listening on 127.0.0.1:60251
+1649215441178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60252" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile87NGW4"
+1649215441523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile87NGW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60252/devtools/browser/fc4b1009-fb6c-45c4-a4ac-c1240afdc2d7
+1649215444116	Marionette	INFO	Listening on port 60257
+1649215444346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649215561364	Marionette	INFO	Stopped listening on port 60257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649215584866	geckodriver	INFO	Listening on 127.0.0.1:60345
+1649215587922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60346" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileKR5ITH"
+1649215588228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileKR5ITH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60346/devtools/browser/16764120-7af8-40bf-9e5d-b3f46e0d1785
+1649215590811	Marionette	INFO	Listening on port 60352
+1649215591079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649216091873	Marionette	INFO	Stopped listening on port 60352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649216094941	geckodriver	INFO	Listening on 127.0.0.1:60476
+1649216098004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60477" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileAcfKPM"
+1649216098343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileAcfKPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60477/devtools/browser/def8e899-811d-423a-906a-392aa56aaab0
+1649216100911	Marionette	INFO	Listening on port 60482
+1649216101171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649216191003	Marionette	INFO	Stopped listening on port 60482
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649216198807	geckodriver	INFO	Listening on 127.0.0.1:60541
+1649216201883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60542" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile98Fnfs"
+1649216202227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile98Fnfs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60542/devtools/browser/2cc45df9-21a7-4dca-b513-f20d685a4177
+1649216204850	Marionette	INFO	Listening on port 60547
+1649216205069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649216304081	Marionette	INFO	Stopped listening on port 60547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649216332414	geckodriver	INFO	Listening on 127.0.0.1:60602
+1649216335468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60603" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3u4oHf"
+1649216335807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3u4oHf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60603/devtools/browser/1d9eb6b6-489e-4d04-893d-463af2dbcc8c
+1649216338324	Marionette	INFO	Listening on port 60611
+1649216338638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649216649677	Marionette	INFO	Stopped listening on port 60611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649216661819	geckodriver	INFO	Listening on 127.0.0.1:60720
+1649216664918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60721" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile1ppVhX"
+1649216665255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile1ppVhX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60721/devtools/browser/65bf63de-5311-4108-be5a-308740912d97
+1649216667725	Marionette	INFO	Listening on port 60727
+1649216668084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649216859446	geckodriver	INFO	Listening on 127.0.0.1:60801
+1649216862497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60802" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileEIAfm7"
+1649216862876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileEIAfm7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60802/devtools/browser/4e6ff2b4-fa97-4d06-84c1-0638ff3f22b6
+1649216865983	Marionette	INFO	Listening on port 60808
+1649216866174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649217070600	Marionette	INFO	Stopped listening on port 60808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649217094098	geckodriver	INFO	Listening on 127.0.0.1:60880
+1649217097174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60881" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3JvoxL"
+1649217097509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3JvoxL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60881/devtools/browser/86bf981a-1d90-479e-933e-ce1d715fafcd
+1649217099935	Marionette	INFO	Listening on port 60886
+1649217100335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649217263122	geckodriver	INFO	Listening on 127.0.0.1:60980
+1649217266177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60981" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileFFoCUv"
+1649217266509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileFFoCUv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60981/devtools/browser/00ef0f99-6751-4661-bf79-50a36155cb13
+1649217269106	Marionette	INFO	Listening on port 60986
+1649217269351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649217376675	geckodriver	INFO	Listening on 127.0.0.1:61066
+1649217379752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61067" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileyEUsK9"
+1649217380053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileyEUsK9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61067/devtools/browser/95aa8b03-5a0c-4993-8a0f-ff06e59c6a65
+1649217382400	Marionette	INFO	Listening on port 61072
+1649217382915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: tabElementForm[0].suivant()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: tabElementForm[0].suivant()'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649217775893	Marionette	INFO	Stopped listening on port 61072
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649217780014	geckodriver	INFO	Listening on 127.0.0.1:61175
+1649217783062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61176" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileBjlU1E"
+1649217783393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileBjlU1E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61176/devtools/browser/4db4c270-165e-4596-800e-514b479201cf
+1649217785887	Marionette	INFO	Listening on port 61181
+1649217786243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649217932288	Marionette	INFO	Stopped listening on port 61181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649217952755	geckodriver	INFO	Listening on 127.0.0.1:61264
+1649217955843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61265" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofiledhazK1"
+1649217956177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofiledhazK1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61265/devtools/browser/53eb4747-332c-4724-8da3-12f425bc5ece
+1649217958597	Marionette	INFO	Listening on port 61271
+1649217959023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649218059308	Marionette	INFO	Stopped listening on port 61271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649218066544	geckodriver	INFO	Listening on 127.0.0.1:61343
+1649218069606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61344" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilep0q69r"
+1649218069928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilep0q69r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61344/devtools/browser/2f58d6e9-9c48-4b16-9480-4f78beb47ed3
+1649218073241	Marionette	INFO	Listening on port 61350
+1649218073286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649218111628	Marionette	INFO	Stopped listening on port 61350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649218115376	geckodriver	INFO	Listening on 127.0.0.1:61409
+1649218118446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61410" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile5LxK1v"
+1649218118796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile5LxK1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61410/devtools/browser/0de870b5-e946-4c41-9853-a0f238334910
+1649218121083	Marionette	INFO	Listening on port 61417
+1649218121108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649218261855	geckodriver	INFO	Listening on 127.0.0.1:56058
+1649218264930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56059" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile3e40xN"
+1649218265270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile3e40xN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56059/devtools/browser/9e13e1e3-5091-4087-b9ba-69bdef3a5f70
+1649218267657	Marionette	INFO	Listening on port 56064
+1649218268098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649218373796	Marionette	INFO	Stopped listening on port 56064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649218423141	geckodriver	INFO	Listening on 127.0.0.1:56123
+1649218426223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56124" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilefrXojl"
+1649218426600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilefrXojl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56124/devtools/browser/f33a69ab-9bcc-4eaa-a6e6-6f4f9e232fc3
+1649218429096	Marionette	INFO	Listening on port 56129
+1649218429391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649218464164	Marionette	INFO	Stopped listening on port 56129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649220326686	geckodriver	INFO	Listening on 127.0.0.1:56482
+1649220329760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56483" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilejHpUgc"
+1649220330119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilejHpUgc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56483/devtools/browser/bcdad104-0efa-4fcb-806f-5ad7143e5570
+1649220332733	Marionette	INFO	Listening on port 56488
+1649220332918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649220434727	Marionette	INFO	Stopped listening on port 56488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649220437755	geckodriver	INFO	Listening on 127.0.0.1:56575
+1649220440830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56576" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileyO97tl"
+1649220441177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileyO97tl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56576/devtools/browser/dea7f496-e1e9-45db-85cf-1fbddfa46b5e
+1649220443735	Marionette	INFO	Listening on port 56581
+1649220443988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649220554786	Marionette	INFO	Stopped listening on port 56581
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649220568052	geckodriver	INFO	Listening on 127.0.0.1:56653
+1649220571130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56654" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileWRbIUa"
+1649220571483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileWRbIUa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56654/devtools/browser/01a9b8b5-34f3-4bba-861d-bdab8423654a
+1649220573898	Marionette	INFO	Listening on port 56661
+1649220574301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649221241997	Marionette	INFO	Stopped listening on port 56661
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649221247045	geckodriver	INFO	Listening on 127.0.0.1:56847
+1649221250085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56848" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileBjX3Zw"
+1649221250440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileBjX3Zw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56848/devtools/browser/32e85131-4446-4f95-96bc-f71c9c99a6f2
+1649221252998	Marionette	INFO	Listening on port 56855
+1649221253260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649221336086	Marionette	INFO	Stopped listening on port 56855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Leonardo Plaza\AppData\Local\Temp\rust_mozprofileBjX3Zw\protections.sqlite
+1649221338991	geckodriver	INFO	Listening on 127.0.0.1:56918
+1649221342060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56919" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileWocjWC"
+1649221342404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileWocjWC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56919/devtools/browser/08620f5f-7ce6-4582-b34f-d26a932887bb
+1649221344731	Marionette	INFO	Listening on port 56924
+1649221345236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649222881609	Marionette	INFO	Stopped listening on port 56924
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649255530255	geckodriver	INFO	Listening on 127.0.0.1:53823
+1649255533322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53824" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileKvOFCy"
+1649255534226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileKvOFCy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53824/devtools/browser/91a7892e-5298-436c-87c5-938b372ae0af
+1649255537360	Marionette	INFO	Listening on port 53829
+1649255537511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649255592326	Marionette	INFO	Stopped listening on port 53829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649257432434	geckodriver	INFO	Listening on 127.0.0.1:53692
+1649257435510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53693" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileQWwqar"
+1649257436111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileQWwqar\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53693/devtools/browser/8b9112ff-b26a-401e-aa7d-7c273c983b36
+1649257439417	Marionette	INFO	Listening on port 53698
+1649257439699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649257637502	Marionette	INFO	Stopped listening on port 53698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649259349580	geckodriver	INFO	Listening on 127.0.0.1:57897
+1649259352639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57898" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileSYKQVH"
+1649259353006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileSYKQVH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57898/devtools/browser/eff18a0c-d49b-43e0-bdb7-b105fa018a84
+1649259355793	Marionette	INFO	Listening on port 57903
+1649259356307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649259682189	Marionette	INFO	Stopped listening on port 57903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64963" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilecLBJDG"
+1649259465662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilecLBJDG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64963/devtools/browser/d3e04f0f-04e6-4dcd-8400-5557688f2440
+1649259468221	Marionette	INFO	Listening on port 64968
+1649259468465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649259681108	Marionette	INFO	Stopped listening on port 64968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649259686528	geckodriver	INFO	Listening on 127.0.0.1:60982
+1649259689579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60983" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileIT1GeB"
+1649259689951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileIT1GeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60983/devtools/browser/b5bc33f2-bd90-42db-a26c-b875d51f3473
+1649259692443	Marionette	INFO	Listening on port 60988
+1649259692740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649259780245	Marionette	INFO	Stopped listening on port 60988
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1649259799784	geckodriver	INFO	Listening on 127.0.0.1:61099
+1649259802865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61100" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilejascvS"
+1649259803273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilejascvS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61100/devtools/browser/27208294-dec5-4ac7-9c76-2a638c2a73fd
+1649259805845	Marionette	INFO	Listening on port 61108
+1649259806032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649259932540	Marionette	INFO	Stopped listening on port 61108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649259949003	geckodriver	INFO	Listening on 127.0.0.1:59391
+1649259952064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59392" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileVSfoBq"
+1649259952438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileVSfoBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59392/devtools/browser/5477f574-5fa7-4815-8681-5023b3df0ffb
+1649259955027	Marionette	INFO	Listening on port 59398
+1649259955255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649260085743	Marionette	INFO	Stopped listening on port 59398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649260088924	geckodriver	INFO	Listening on 127.0.0.1:58915
+1649260091974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58916" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilemgvXSo"
+1649260092336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilemgvXSo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58916/devtools/browser/65a51263-7656-4b51-afed-75749a27f11e
+1649260094800	Marionette	INFO	Listening on port 58921
+1649260095176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649260330996	Marionette	INFO	Stopped listening on port 58921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649260408771	geckodriver	INFO	Listening on 127.0.0.1:64310
+1649260411820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64311" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile4cyCmV"
+1649260412251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofile4cyCmV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64311/devtools/browser/62ea29d3-5e29-4b63-8d7b-be971f0f8ab6
+1649260415195	Marionette	INFO	Listening on port 64316
+1649260415499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649262171240	Marionette	INFO	Stopped listening on port 64316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649262222390	geckodriver	INFO	Listening on 127.0.0.1:50692
+1649262225432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50693" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileuDZw4U"
+1649262225782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileuDZw4U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50693/devtools/browser/ac27354d-0b35-492a-a9e2-a4179d8fe027
+1649262228205	Marionette	INFO	Listening on port 50698
+1649262228607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649262304047	Marionette	INFO	Stopped listening on port 50698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Leonardo Plaza\AppData\Local\Temp\rust_mozprofileuDZw4U\protections.sqlite
+1649262312883	geckodriver	INFO	Listening on 127.0.0.1:50400
+1649262315937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50401" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileExUtP0"
+1649262316363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileExUtP0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50401/devtools/browser/79bacf8b-3a39-43dc-b53a-58c1709cf091
+1649262319699	Marionette	INFO	Listening on port 50407
+1649262320111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649262355121	Marionette	INFO	Stopped listening on port 50407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649263789657	geckodriver	INFO	Listening on 127.0.0.1:59385
+1649263792730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59386" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilegdEOcD"
+1649263793117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilegdEOcD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59386/devtools/browser/4f57d666-b3cf-4356-87e2-fc97b660b8bd
+1649263796139	Marionette	INFO	Listening on port 59393
+1649263796393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649263890061	Marionette	INFO	Stopped listening on port 59393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Leonardo Plaza\AppData\Local\Temp\rust_mozprofilegdEOcD\protections.sqlite
+1649263897019	geckodriver	INFO	Listening on 127.0.0.1:59463
+1649263900058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59464" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileCfauzj"
+1649263900452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileCfauzj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59464/devtools/browser/ea63823b-d55a-41ac-9021-8e8abea7072a
+1649263903325	Marionette	INFO	Listening on port 59469
+1649263903742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649264035963	Marionette	INFO	Stopped listening on port 59469
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649264301796	geckodriver	INFO	Listening on 127.0.0.1:55688
+1649264304872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55689" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilejLfmzm"
+1649264305494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilejLfmzm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55689/devtools/browser/12886f65-3700-44a1-9038-cb246802709d
+1649264308892	Marionette	INFO	Listening on port 55694
+1649264309053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649265304651	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265333613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265362392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265502717	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265559385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265587415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265615848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265644168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265672049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265783788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265811855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265840441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265868518	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265897156	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265925538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265954357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649265982289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266011144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266039589	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266067773	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266096124	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266180527	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266209421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266237588	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266265500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266293879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266321816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266349673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266378371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266406980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266435549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266464166	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266492076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266519825	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266548213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266576946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266605483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266633742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266662337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266691095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266719185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266747542	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266776157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649266870046	Marionette	INFO	Stopped listening on port 55694
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
