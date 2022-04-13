@@ -1044,3 +1044,142 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 1649266870046	Marionette	INFO	Stopped listening on port 55694
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649813420227	geckodriver	INFO	Listening on 127.0.0.1:64981
+1649813423266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64982" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilei184hp"
+1649813424244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilei184hp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64982/devtools/browser/1f67a5f6-0c7b-4369-bde5-3e3d4496a03f
+1649813427568	Marionette	INFO	Listening on port 64987
+1649813428111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pastel.diplomatie.gouv.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pastel.diplomatie.gouv.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pastel.diplomatie.gouv.fr"
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: tabElementForm[0].suivant()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:compTableau.appelAction(0,0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: tabElementForm[0].valider()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: imprimer()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: tabElementForm[0].suivant()'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:compTableau.appelAction(0,0)'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: tabElementForm[0].valider()'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: imprimer()'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Unable to find target with innerWindowId:2147483671"
+console.error: "Unable to find target with innerWindowId:2147483671"
+console.error: "Unable to find target with innerWindowId:2147483671"
+console.error: "Unable to find target with innerWindowId:2147483671"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pastel.diplomatie.gouv.fr"
+console.error: "Unable to find target with innerWindowId:2147483720"
+console.error: "Unable to find target with innerWindowId:2147483720"
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js line 186 > eval, line 1: TypeError: window.frames.CONTENU_WIN.chargerDonnees is not a function
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3452: TypeError: data.frameData.id is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js line 186 > eval, line 1: TypeError: window.frames.CONTENU_WIN.construirePage is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649815120317	Marionette	INFO	Stopped listening on port 64987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649815133113	geckodriver	INFO	Listening on 127.0.0.1:65398
+1649815136138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65399" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilePSePxi"
+1649815136557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilePSePxi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65399/devtools/browser/e640097a-1907-40a0-bbe2-b564138184e9
+1649815139361	Marionette	INFO	Listening on port 65404
+1649815139830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 313: NS_ERROR_NOT_INITIALIZED: 
+1649815394980	Marionette	INFO	Stopped listening on port 65404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649815398684	geckodriver	INFO	Listening on 127.0.0.1:49178
+1649815401754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49179" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofilesCxhU9"
+1649815402294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofilesCxhU9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49179/devtools/browser/bca121aa-68f5-4df7-af56-afafe311f96f
+1649815404955	Marionette	INFO	Listening on port 49185
+1649815405432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/jsclient-4.02.00/RDV/prise/prendreRDV.js, line 831: ReferenceError: value_annee is not defined
+1649815802522	Marionette	INFO	Stopped listening on port 49185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649815834814	geckodriver	INFO	Listening on 127.0.0.1:49353
+1649815837852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49354" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileS0VbBo"
+1649815838239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileS0VbBo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49354/devtools/browser/84b2e526-a3ad-4bb5-981d-0f0af37099f7
+1649815841097	Marionette	INFO	Listening on port 49359
+1649815841523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
+1649816525221	Marionette	INFO	Stopped listening on port 49359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649816530492	geckodriver	INFO	Listening on 127.0.0.1:49609
+1649816533515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49610" "-no-remote" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofileSyc9Sc"
+1649816533901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Leonardo Plaza\\AppData\\Local\\Temp\\rust_mozprofileSyc9Sc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49610/devtools/browser/cef72cf0-0314-4207-aa71-a6cef38fa747
+1649816536494	Marionette	INFO	Listening on port 49615
+1649816536679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pastel.diplomatie.gouv.fr/rdvinternet/FrameworkERGO-2.12.1/jsclient/technique/fw_xml.js, line 380: TypeError: this.xmlDoc is null
